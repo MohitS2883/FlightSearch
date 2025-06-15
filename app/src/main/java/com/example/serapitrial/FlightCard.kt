@@ -155,7 +155,7 @@ fun FlightCard(
                             overflow = TextOverflow.Ellipsis,
                             modifier = Modifier
                                 .weight(0.8f)
-                                .padding(start = 22.dp, top = 20.dp)
+                                .padding(start = 10.dp, top = 20.dp)
                         )
                     }
                     Row(
